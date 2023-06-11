@@ -9,6 +9,6 @@ class Edificio extends Model
 {
    // use HasFactory;
    protected $table = "edificios";
-   protected $fillable =['descripcion','codEdif','latitud','longitud','grupo','sigla'];
+   protected $fillable =['descripcion','codEdif','longitud','latitud','grupo','sigla'];
 
 }

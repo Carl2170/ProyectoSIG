@@ -21,6 +21,7 @@ return new class extends Migration
             $table->decimal('latitud', 12, 7); // 10 dígitos en total, 7 dígitos después del punto decimal
             $table->string('grupo');
             $table->string('sigla');
+            $table->timestamps();
         });
     }
 
