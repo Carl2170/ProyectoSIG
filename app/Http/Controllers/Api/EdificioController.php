@@ -15,7 +15,12 @@ class EdificioController extends Controller
      */
     public function index()
     {
-        return Edificio::all();
+        /* return Edificio::all(); */
+        return response()->json([
+            'success' => true,
+            'message' =>'exitoso',
+            'data' => Edificio::all()
+        ]); 
     }
 
     /**
@@ -39,7 +44,8 @@ class EdificioController extends Controller
     {
         return response()->json([
             'res' => true,
-            'edificio' =>$id
+            'message' =>'exitoso',
+            'data' => $id
         ]); 
     }
 
