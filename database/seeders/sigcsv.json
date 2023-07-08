@@ -1,0 +1,690 @@
+{
+    "success": true,
+    "message": "exitoso",
+    "data": [
+        {
+            "id": 1,
+            "descripcion": "COMEDOR UNICERSITARIO",
+            "codEdif": 292,
+            "longitud": "-63.1985390",
+            "latitud": "-17.7756150",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "COMEDOR UNICERSITARI"
+        },
+        {
+            "id": 2,
+            "descripcion": "ESTACIONAMIENTO GENERAL",
+            "codEdif": 294,
+            "longitud": "-63.1973620",
+            "latitud": "-17.7761450",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "ESTACIO GENERAL"
+        },
+        {
+            "id": 3,
+            "descripcion": "CANCHA 1",
+            "codEdif": 294,
+            "longitud": "-63.1973870",
+            "latitud": "-17.7763760",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "CANCHA 1"
+        },
+        {
+            "id": 4,
+            "descripcion": "CANCHA 2",
+            "codEdif": 294,
+            "longitud": "-63.1974100",
+            "latitud": "-17.7765110",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "CANCHA 2"
+        },
+        {
+            "id": 5,
+            "descripcion": "DEPARTAMENTO DE EDUCACION A DISTANCIA Y TECNOLOGIA EDUCATIVA DEDTE",
+            "codEdif": 126,
+            "longitud": "-63.1910870",
+            "latitud": "-17.7780440",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "DEDTE"
+        },
+        {
+            "id": 6,
+            "descripcion": "DEFENSOR UNIVERSITARIO",
+            "codEdif": 126,
+            "longitud": "-63.1910710",
+            "latitud": "-17.7782080",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "DEFENSOR UNIVERSITAR"
+        },
+        {
+            "id": 7,
+            "descripcion": "INFORMACION CUP-PSA",
+            "codEdif": 145,
+            "longitud": "-63.1906150",
+            "latitud": "-17.7786850",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "SECCION NF. CUP-PSA"
+        },
+        {
+            "id": 8,
+            "descripcion": "VICERRECTORADO",
+            "codEdif": 90,
+            "longitud": "-63.1914720",
+            "latitud": "-17.7783330",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "VICERRECTORADO"
+        },
+        {
+            "id": 9,
+            "descripcion": "CLINICA ODONTOLOGICA",
+            "codEdif": 91,
+            "longitud": "-63.1908010",
+            "latitud": "-17.7779890",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "CLINICA ODONTOLOGICA"
+        },
+        {
+            "id": 10,
+            "descripcion": "UNIDAD DE POSTGRADO DE CIENCIAS EXACTAS Y TECNOLOGÍA",
+            "codEdif": 93,
+            "longitud": "-63.1904580",
+            "latitud": "-17.7780370",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "PTGRDO FAC. TEC."
+        },
+        {
+            "id": 11,
+            "descripcion": "ESTACIONAMIENTO DE LA FCET",
+            "codEdif": 95,
+            "longitud": "-63.1911010",
+            "latitud": "-17.7784040",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "ESTACIO. FCET"
+        },
+        {
+            "id": 12,
+            "descripcion": "UNIDAD DE POSTGRADO DE LA FACULTAD DE HUMANIDADES",
+            "codEdif": 0,
+            "longitud": "-63.1909600",
+            "latitud": "-17.7763200",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "PTGRDO FAC. HUM"
+        },
+        {
+            "id": 13,
+            "descripcion": "DIRECCION UNIVERSITARIA DE INVESTIGACION DUI",
+            "codEdif": 150,
+            "longitud": "-63.1908280",
+            "latitud": "-17.7764720",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "DUI"
+        },
+        {
+            "id": 14,
+            "descripcion": "DIRECCION DE INVESTIGACION DICIF",
+            "codEdif": 150,
+            "longitud": "-63.1908860",
+            "latitud": "-17.7764910",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "DICIT"
+        },
+        {
+            "id": 15,
+            "descripcion": "DECANATO DE FACULTAD DE CIENCIA DE LA SALUD HUMANA",
+            "codEdif": 0,
+            "longitud": "-63.1909420",
+            "latitud": "-17.7767020",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "DECA. FACULTAD CSH"
+        },
+        {
+            "id": 16,
+            "descripcion": "UNIDAD DE POSTGRADO DE LA SALUD HUMANA",
+            "codEdif": 0,
+            "longitud": "-63.1908450",
+            "latitud": "-17.7766950",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "PTGRO FAC. SALUD"
+        },
+        {
+            "id": 17,
+            "descripcion": "DIRECCION DE CARRERA DE INGENIERIA INDUSTRIAL",
+            "codEdif": 0,
+            "longitud": "-63.1945610",
+            "latitud": "-17.7752830",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "CARR. ING. INDUSTR"
+        },
+        {
+            "id": 18,
+            "descripcion": "VICEDECANATO FACULTAD DE CIENCIAS EXACTAS Y TECNOLOGIA",
+            "codEdif": 0,
+            "longitud": "-63.1956850",
+            "latitud": "-17.7755190",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "VICEDECANATO FCET"
+        },
+        {
+            "id": 19,
+            "descripcion": "DIRECCION DE LA CARRERA DE INGENIERIA EN CONTROL DE PROCESOS QUIMICA INDUSTRIAL",
+            "codEdif": 0,
+            "longitud": "-63.1956820",
+            "latitud": "-17.7755110",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "CARR: ING CTRL PROCE"
+        },
+        {
+            "id": 20,
+            "descripcion": "DIRECCION DE LA CARRERA DE INGENIERIA PETROLERA",
+            "codEdif": 0,
+            "longitud": "-63.1956880",
+            "latitud": "-17.7755150",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "CARR. ING. PETROLERA"
+        },
+        {
+            "id": 21,
+            "descripcion": "DECANATO DE LA FACULTAD DE CIENCIAS EXACTA Y TECNOLOGIAS FGET",
+            "codEdif": 0,
+            "longitud": "-63.1957420",
+            "latitud": "-17.7754550",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "DECA. FACULTAD  FCET"
+        },
+        {
+            "id": 22,
+            "descripcion": "DIRECCION DE LA CARRERA DE INGENIERIA QUIMICA",
+            "codEdif": 0,
+            "longitud": "-63.1957440",
+            "latitud": "-17.7754590",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "CARR. ING. QUIMICA"
+        },
+        {
+            "id": 23,
+            "descripcion": "DIRECCION DE LA CARRERA DE INGENIERIA EN ALIMENTOS",
+            "codEdif": 0,
+            "longitud": "-63.1957020",
+            "latitud": "-17.7755140",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "CARR. ING. ALIMENTOS"
+        },
+        {
+            "id": 24,
+            "descripcion": "DIRECCION DE LA CARRERA DE INGENIERIA AMBIENTAL",
+            "codEdif": 0,
+            "longitud": "-63.1957050",
+            "latitud": "-17.7755150",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "CARR. ING. AMBIENTAL"
+        },
+        {
+            "id": 25,
+            "descripcion": "DIRECCION DE LA CARRERA DE INGENIERIA CIVIL",
+            "codEdif": 0,
+            "longitud": "-63.1957080",
+            "latitud": "-17.7755190",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "CARR. ING. CIVIL"
+        },
+        {
+            "id": 26,
+            "descripcion": "DIRECCION DE LA CARRERA DE INGENIERIA ELECTROMECANICA",
+            "codEdif": 0,
+            "longitud": "-63.1956590",
+            "latitud": "-17.7755280",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "CARR. ING. ELECTROME"
+        },
+        {
+            "id": 27,
+            "descripcion": "DIRECCION DE LA CARRERA DE COMERCIO INTERNACIONAL",
+            "codEdif": 0,
+            "longitud": "-63.1956010",
+            "latitud": "-17.7755300",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "CARR. COMERCION INTE"
+        },
+        {
+            "id": 28,
+            "descripcion": "ESTACIONAMIENTO FCET",
+            "codEdif": 0,
+            "longitud": "-63.1956000",
+            "latitud": "-17.7750430",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "ESTACIONA. FCET"
+        },
+        {
+            "id": 29,
+            "descripcion": "DIRECCION DE LA CARRERA GESTION DEL TURISMO",
+            "codEdif": 151,
+            "longitud": "-63.1915450",
+            "latitud": "-17.7777840",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "CARR. GESTION DE TUR"
+        },
+        {
+            "id": 30,
+            "descripcion": "JEFATURA MUSEO NOEL KENF MERCADO",
+            "codEdif": 152,
+            "longitud": "-63.1916610",
+            "latitud": "-17.7775310",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "MUSEO NOEL KENF M."
+        },
+        {
+            "id": 31,
+            "descripcion": "DIRECCION DE TECNOLOGIAS DE LA INF, Y COMUNICACIÓN. DTIC",
+            "codEdif": 9001,
+            "longitud": "-63.1907940",
+            "latitud": "-17.7771460",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "DTIC"
+        },
+        {
+            "id": 32,
+            "descripcion": "DEPARTAMENTOS",
+            "codEdif": 9001,
+            "longitud": "-63.1907770",
+            "latitud": "-17.7771860",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "SECCION TITULOS"
+        },
+        {
+            "id": 33,
+            "descripcion": "VENTANILLAS AUXILIARES",
+            "codEdif": 9001,
+            "longitud": "-63.1907290",
+            "latitud": "-17.7772840",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "VENTANILLAS AUXILIAR"
+        },
+        {
+            "id": 34,
+            "descripcion": "INFORMACION",
+            "codEdif": 9002,
+            "longitud": "-63.1905790",
+            "latitud": "-17.7774260",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "INFORMACION"
+        },
+        {
+            "id": 35,
+            "descripcion": "DEPARTAMENTO DE TRAMITE REGISTRO Y TITULOS",
+            "codEdif": 9002,
+            "longitud": "-63.1905510",
+            "latitud": "-17.7775000",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "DPTO. REG. Y TITULO"
+        },
+        {
+            "id": 36,
+            "descripcion": "CERTIFICADO NO DEUDOR",
+            "codEdif": 9002,
+            "longitud": "-63.1904010",
+            "latitud": "-17.7773480",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "CERTIF. NO DEUDO"
+        },
+        {
+            "id": 37,
+            "descripcion": "FEDERACION UNIVERSITARIA DE AUXILIARES DE DOCENCIA",
+            "codEdif": 9002,
+            "longitud": "-63.1904390",
+            "latitud": "-17.7773620",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "FUAD"
+        },
+        {
+            "id": 38,
+            "descripcion": "ADMINISTRACION PREDIOS DEL CAMPUS UNIVERSITARIOS",
+            "codEdif": 9003,
+            "longitud": "-63.1903940",
+            "latitud": "-17.7772690",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "ADMI. CAMPUS"
+        },
+        {
+            "id": 39,
+            "descripcion": "DIRECCION DE CARRERA INGENIERIA INFORMATICA",
+            "codEdif": 236,
+            "longitud": "-63.1950210",
+            "latitud": "-17.7761830",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "ING. INFORMATICA"
+        },
+        {
+            "id": 40,
+            "descripcion": "DIRECCION DE CARRERA INGENIERIA EN SISTEMAS",
+            "codEdif": 236,
+            "longitud": "-63.1950210",
+            "latitud": "-17.7761830",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "CARR. ING. DE SIST."
+        },
+        {
+            "id": 41,
+            "descripcion": "DIRECCION DE CARRERA INGENIERIA EN REDES Y TELECOMUNICACIONES",
+            "codEdif": 236,
+            "longitud": "-63.1950210",
+            "latitud": "-17.7761830",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "CARR. ING. EN REDES"
+        },
+        {
+            "id": 42,
+            "descripcion": "DECANATO DE LA FACULTAD DE CIENCIAS DE LA COMPUTACION Y TELECOMUNICACIONES FICCT",
+            "codEdif": 236,
+            "longitud": "-63.1950210",
+            "latitud": "-17.7761830",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "DECANATO FICCT"
+        },
+        {
+            "id": 43,
+            "descripcion": "UNIDAD DE POSTGRADO E LA FACULTAD DE CIENCIAS DE LA COMPUTACION Y TELECOMUNICACIONES FICCT",
+            "codEdif": 236,
+            "longitud": "-63.1956320",
+            "latitud": "-17.7768440",
+            "grupo": "Oficinas Administrativas",
+            "sigla": "PTGRDO FICCT"
+        },
+        {
+            "id": 44,
+            "descripcion": "Modulo 117",
+            "codEdif": 117,
+            "longitud": "-63.1916450",
+            "latitud": "-17.7770680",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 117"
+        },
+        {
+            "id": 45,
+            "descripcion": "Modulo 122",
+            "codEdif": 122,
+            "longitud": "-63.1903650",
+            "latitud": "-17.7782440",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 122"
+        },
+        {
+            "id": 46,
+            "descripcion": "Modulo 123",
+            "codEdif": 123,
+            "longitud": "-63.1903180",
+            "latitud": "-17.7784380",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 123"
+        },
+        {
+            "id": 47,
+            "descripcion": "Modulo 124",
+            "codEdif": 124,
+            "longitud": "-63.1905230",
+            "latitud": "-17.7784740",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 124"
+        },
+        {
+            "id": 48,
+            "descripcion": "Modulo 125",
+            "codEdif": 125,
+            "longitud": "-63.1904630",
+            "latitud": "-17.7786580",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 125"
+        },
+        {
+            "id": 49,
+            "descripcion": "Modulo 126",
+            "codEdif": 126,
+            "longitud": "-63.1910800",
+            "latitud": "-17.7780800",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 126"
+        },
+        {
+            "id": 50,
+            "descripcion": "Modulo 127",
+            "codEdif": 127,
+            "longitud": "-63.1907980",
+            "latitud": "-17.7782240",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 127"
+        },
+        {
+            "id": 51,
+            "descripcion": "Modulo 128",
+            "codEdif": 128,
+            "longitud": "-63.1909640",
+            "latitud": "-17.7775480",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 128"
+        },
+        {
+            "id": 52,
+            "descripcion": "Modulo 145",
+            "codEdif": 145,
+            "longitud": "-63.1903960",
+            "latitud": "-17.7788750",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 145"
+        },
+        {
+            "id": 53,
+            "descripcion": "Modulo 146",
+            "codEdif": 146,
+            "longitud": "-63.1914850",
+            "latitud": "-17.7771980",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 146"
+        },
+        {
+            "id": 54,
+            "descripcion": "Modulo 150",
+            "codEdif": 150,
+            "longitud": "-63.1906070",
+            "latitud": "-17.7765310",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 150"
+        },
+        {
+            "id": 55,
+            "descripcion": "Modulo 151",
+            "codEdif": 151,
+            "longitud": "-63.1916100",
+            "latitud": "-17.7778670",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 151"
+        },
+        {
+            "id": 56,
+            "descripcion": "Modulo 153",
+            "codEdif": 153,
+            "longitud": "-63.1912030",
+            "latitud": "-17.7774210",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 153"
+        },
+        {
+            "id": 57,
+            "descripcion": "Modulo 165",
+            "codEdif": 165,
+            "longitud": "-63.1911780",
+            "latitud": "-17.7768690",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 165"
+        },
+        {
+            "id": 58,
+            "descripcion": "Modulo 175",
+            "codEdif": 175,
+            "longitud": "-63.1912720",
+            "latitud": "-17.7755020",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 175"
+        },
+        {
+            "id": 59,
+            "descripcion": "Modulo 212",
+            "codEdif": 212,
+            "longitud": "-63.1937360",
+            "latitud": "-17.7755940",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 212"
+        },
+        {
+            "id": 60,
+            "descripcion": "Modulo 213",
+            "codEdif": 213,
+            "longitud": "-63.1936720",
+            "latitud": "-17.7763340",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 213"
+        },
+        {
+            "id": 61,
+            "descripcion": "Modulo 214",
+            "codEdif": 214,
+            "longitud": "-63.1938030",
+            "latitud": "-17.7766670",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 214"
+        },
+        {
+            "id": 62,
+            "descripcion": "Modulo 224",
+            "codEdif": 224,
+            "longitud": "-63.1945160",
+            "latitud": "-17.7752460",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 224"
+        },
+        {
+            "id": 63,
+            "descripcion": "Modulo 225",
+            "codEdif": 225,
+            "longitud": "-63.1947410",
+            "latitud": "-17.7755870",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 225"
+        },
+        {
+            "id": 64,
+            "descripcion": "Modulo 228",
+            "codEdif": 228,
+            "longitud": "-63.1948840",
+            "latitud": "-17.7768810",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 228"
+        },
+        {
+            "id": 65,
+            "descripcion": "Modulo 229",
+            "codEdif": 229,
+            "longitud": "-63.1944750",
+            "latitud": "-17.7769920",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 229"
+        },
+        {
+            "id": 66,
+            "descripcion": "Modulo 233",
+            "codEdif": 233,
+            "longitud": "-63.1953290",
+            "latitud": "-17.7745490",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 233"
+        },
+        {
+            "id": 67,
+            "descripcion": "Modulo 236",
+            "codEdif": 236,
+            "longitud": "-63.1950770",
+            "latitud": "-17.7764870",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 236"
+        },
+        {
+            "id": 68,
+            "descripcion": "Modulo 244",
+            "codEdif": 244,
+            "longitud": "-63.1955430",
+            "latitud": "-17.7754500",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 244"
+        },
+        {
+            "id": 69,
+            "descripcion": "Modulo 246",
+            "codEdif": 246,
+            "longitud": "-63.1959240",
+            "latitud": "-17.7769250",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 246"
+        },
+        {
+            "id": 70,
+            "descripcion": "Modulo 247",
+            "codEdif": 247,
+            "longitud": "-63.1959560",
+            "latitud": "-17.7770720",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 247"
+        },
+        {
+            "id": 71,
+            "descripcion": "Modulo 255",
+            "codEdif": 255,
+            "longitud": "-63.1965540",
+            "latitud": "-17.7761160",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 255"
+        },
+        {
+            "id": 72,
+            "descripcion": "Modulo 256",
+            "codEdif": 256,
+            "longitud": "-63.1962690",
+            "latitud": "-17.7763140",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 256"
+        },
+        {
+            "id": 73,
+            "descripcion": "Modulo 264",
+            "codEdif": 264,
+            "longitud": "-63.1969510",
+            "latitud": "-17.7763300",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 264"
+        },
+        {
+            "id": 74,
+            "descripcion": "Modulo 265",
+            "codEdif": 265,
+            "longitud": "-63.1967320",
+            "latitud": "-17.7766810",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 265"
+        },
+        {
+            "id": 75,
+            "descripcion": "Modulo 283",
+            "codEdif": 283,
+            "longitud": "-63.1981980",
+            "latitud": "-17.7760460",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 283"
+        },
+        {
+            "id": 76,
+            "descripcion": "Modulo 284",
+            "codEdif": 284,
+            "longitud": "-63.1981200",
+            "latitud": "-17.7762800",
+            "grupo": "Aulas y Laboratorios",
+            "sigla": "Modulo 284"
+        }
+    ]
+}

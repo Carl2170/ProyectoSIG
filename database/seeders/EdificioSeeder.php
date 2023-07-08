@@ -24,7 +24,7 @@ class EdificioSeeder extends Seeder
       ini_set("auto_detect_line_endings", '1');
     }
 
-    $csv = Reader::createFromPath('database/seeders/sigcsv.csv', 'r');
+    $csv = Reader::createFromPath('database/seeders/faseiv.csv', 'r');
 
     // indicamos que el delimitador es el punto y coma
     $csv->setDelimiter(';');
@@ -33,14 +33,15 @@ class EdificioSeeder extends Seeder
     $records = $csv->getRecords();
     foreach ($records as $r) {
       $edificio = new Edificio();
-      $edificio->descripcion = $r['descripcion'];
-      $edificio->codEdif = $r['codEdif'];
-      $edificio->longitud = $r['longitud'];
+      $edificio->descripcion =  mb_convert_encoding($r['descripcion'], 'UTF-8', 'ISO-8859-1');
+      $edificio->codEdif =  $r['codEdif'];
       $edificio->latitud = $r['latitud'];
+      $edificio->longitud = $r['longitud'];
       $edificio->grupo = $r['grupo'];
-      $edificio->sigla = $r['sigla'];    
+      $edificio->sigla = mb_convert_encoding($r['sigla'], 'UTF-8', 'ISO-8859-1');
+      $edificio->localidad = $r['localidad'];
       $edificio->save();
-     /*  dd($r); // para hacer debug en laravel*/
+      /*  dd($r); // para hacer debug en laravel*/
     }
   }
 }

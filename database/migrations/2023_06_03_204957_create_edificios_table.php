@@ -17,10 +17,11 @@ return new class extends Migration
             $table->id();
             $table->string('descripcion');
             $table->unsignedInteger('codEdif');
-            $table->decimal('longitud', 12, 7); // 10 dígitos en total, 7 dígitos después del punto decimal
             $table->decimal('latitud', 12, 7); // 10 dígitos en total, 7 dígitos después del punto decimal
+            $table->decimal('longitud', 12, 7); // 10 dígitos en total, 7 dígitos después del punto decimal    
             $table->string('grupo');
             $table->string('sigla');
+            $table->string('localidad');
             $table->timestamps();
         });
     }
